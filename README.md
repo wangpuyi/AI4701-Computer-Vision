@@ -5,4 +5,4 @@
 
 # Homework 2
 
-SIFT 特征检测与运用
+- SIFT 特征检测与运用
