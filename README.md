@@ -8,5 +8,7 @@
 - 相机标定
 
 # Homework 2
-
 - SIFT 特征检测与运用
+
+# Homework 3
+- MNIST 手写数字识别
